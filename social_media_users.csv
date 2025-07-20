@@ -1,0 +1,11 @@
+username,post_count,follower_count,following_count,account_age_days,is_fake
+user1,100,500,300,365,0
+user2,10,50,1000,30,1
+user3,200,1000,800,500,0
+user4,5,20,50,10,1
+user5,150,700,600,400,0
+user6,300,2000,1500,600,0
+user7,8,30,200,15,1
+user8,250,1200,900,450,0
+user9,12,60,300,20,1
+user10,180,800,700,380,0
